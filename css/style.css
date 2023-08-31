@@ -29,8 +29,9 @@ footer{
 .card{
     height: 30vh;
     width: 20vh;
-    background-color: white;
+    background-color:red;
     border-radius: 3vh;
+    text-align: center;
 }
 .blackRole{
     position: absolute;
